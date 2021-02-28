@@ -1,0 +1,2 @@
+seleniumとchromedriverを使ったweb操作です。
+ログイン後の設定値登録まで実行します。
